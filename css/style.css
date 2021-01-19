@@ -97,7 +97,7 @@ h6{
 }
 
 .site-header.inicio {
-    background-image: url(/img/Header6.jpg);
+    background-image: url(img/Header6.jpg);
     background-position:  center center;
     background-size: cover;
     height: 100vh;
