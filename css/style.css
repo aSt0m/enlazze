@@ -113,7 +113,7 @@ h6{
 }
 .contenido-header h1{
     padding-bottom: 20px;
-    -webkit-text-stroke: 1.5px #333333;
+    /*-webkit-text-stroke: 1.5px #333333;*/
     color: #333333;
     max-width: 60rem;
 }
