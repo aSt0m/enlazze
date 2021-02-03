@@ -161,7 +161,7 @@ font-size: 2.6rem;
 }
 @media (min-width: 768px){
     .navegacion a{  
-        color: black;
+        color: #333333;
         display: inline-block;
         font-size: 1.6rem;
         margin-right: 2rem;
