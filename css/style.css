@@ -29,7 +29,7 @@ img {
 }
 
 h1{
-font-size: 3.2rem;
+font-size: 3.8rem;
 }
 h2{
 font-size: 3rem;
@@ -134,7 +134,7 @@ font-size: 2.6rem;
     -webkit-text-stroke: 1.5px black;
     color: #333333;
     max-width: 60rem;
-    font-size: 2.2rem;
+    font-size: 3rem;
     
 }
 
@@ -161,7 +161,7 @@ font-size: 2.6rem;
 }
 @media (min-width: 768px){
     .navegacion a{  
-        color: #000000;
+        color: black;
         display: inline-block;
         font-size: 1.6rem;
         margin-right: 2rem;
