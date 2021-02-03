@@ -104,7 +104,6 @@ font-size: 2.6rem;
 
 
 .site-header.inicio {
-     background-image: url(img/Header6.jpg);
      background-image: url(../img/Header6.jpg);
      background-position:  center center;
      background-size: cover;
@@ -262,6 +261,7 @@ font-size: 2.6rem;
 .imagen-contacto {
 
     background-image: url(../img/contacto.jpg);
+    background-image: url(../img/Header6.jpg);
     background-position: center center;
     background-size: cover;
     height: 40rem;
